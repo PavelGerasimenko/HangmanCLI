@@ -44,4 +44,4 @@ this.checkIfLetterFound = function(guessedLetter) {
 //   };
 // }
 
-// module.exports = Word;
+module.exports = Word;
